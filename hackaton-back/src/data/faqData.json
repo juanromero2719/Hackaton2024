@@ -1,0 +1,66 @@
+﻿[
+  {
+    "question": "¿Cómo puedo registrarme en la plataforma?",
+    "answer": "Para registrarte, visita la página principal de la plataforma y haz clic en 'Registrarse'. Completa el formulario con tus datos personales, selecciona tu rol (Productor, Empresa Turística o Proveedor de Insumos) y sigue las instrucciones para verificar tu cuenta a través de tu correo electrónico o número de teléfono."
+  },
+  {
+    "question": "¿Cómo creo mi perfil de usuario?",
+    "answer": "Después de registrarte y verificar tu cuenta, inicia sesión y ve a tu perfil. Allí podrás completar información adicional como descripción de tu negocio, productos o servicios que ofreces, ubicación y horarios de operación. Asegúrate de proporcionar información precisa para atraer a potenciales socios comerciales."
+  },
+  {
+    "question": "¿Cómo publico una oferta de productos o servicios?",
+    "answer": "En tu panel de usuario, selecciona la opción 'Publicar Oferta' o 'Agregar Producto/Servicio'. Rellena el formulario con los detalles del producto o servicio, incluyendo descripción, precio, cantidad disponible, fechas de disponibilidad y cualquier condición especial. Una vez publicada, tu oferta será visible para otros usuarios en la plataforma."
+  },
+  {
+    "question": "¿Cómo puedo buscar productos o servicios disponibles?",
+    "answer": "Puedes utilizar el asistente virtual en el chat para consultar sobre productos o servicios disponibles. Simplemente escribe tu consulta, por ejemplo: '¿Qué insumos agrícolas están disponibles esta semana?' El asistente te proporcionará una lista de opciones relevantes según tus criterios."
+  },
+  {
+    "question": "¿Cómo funciona el asistente virtual con inteligencia artificial?",
+    "answer": "El asistente virtual está diseñado para ayudarte a navegar la plataforma de manera fácil. Puedes hacer preguntas en lenguaje natural, y el asistente utilizará la información de nuestra base de datos para proporcionarte respuestas precisas y personalizadas. Está disponible las 24 horas para asistirte en lo que necesites."
+  },
+  {
+    "question": "¿Cómo puedo realizar una compra a través de la plataforma?",
+    "answer": "Cuando encuentres un producto o servicio de tu interés, haz clic en 'Comprar' o 'Solicitar Servicio'. Sigue los pasos para confirmar la cantidad, revisar los detalles y acordar las condiciones con el vendedor. Puedes utilizar el asistente virtual para facilitar este proceso y obtener ayuda en tiempo real."
+  },
+  {
+    "question": "¿Cómo oferto mis productos en una subasta en tiempo real?",
+    "answer": "Accede a la sección 'Subastas' en tu panel de usuario y selecciona 'Crear Nueva Subasta'. Ingresa los detalles del producto, el precio inicial, la duración de la subasta y cualquier término específico. Los compradores podrán pujar por tu producto, y al finalizar la subasta, podrás concretar la venta con el mejor postor."
+  },
+  {
+    "question": "¿Cómo puedo establecer el radio geográfico de mis ofertas o búsquedas?",
+    "answer": "En la configuración de tu perfil, encontrarás la opción 'Radio de Servicio' o 'Preferencias de Ubicación'. Allí puedes definir la distancia máxima en kilómetros para tus ofertas o búsquedas, lo cual te ayudará a optimizar tiempos y costos de transporte."
+  },
+  {
+    "question": "Olvidé mi contraseña, ¿cómo puedo restablecerla?",
+    "answer": "En la página de inicio de sesión, haz clic en '¿Olvidaste tu contraseña?' Ingresa el correo electrónico asociado a tu cuenta y recibirás un enlace para restablecer tu contraseña. Sigue las instrucciones proporcionadas en el correo electrónico."
+  },
+  {
+    "question": "¿Puedo programar entregas para fechas específicas?",
+    "answer": "Sí, al realizar una compra o venta, puedes acordar con el otro usuario la fecha y hora de entrega. Utiliza el asistente virtual o la sección de mensajes dentro de la transacción para coordinar los detalles logísticos."
+  },
+  {
+    "question": "¿Cómo puedo asegurarme de que las ofertas que veo son de proveedores confiables?",
+    "answer": "Puedes revisar las calificaciones y comentarios en el perfil de cada proveedor. Además, los proveedores verificados tienen una insignia especial que indica que han pasado por nuestro proceso de verificación."
+  },
+  {
+    "question": "¿Cómo funciona el sistema de subastas en tiempo real?",
+    "answer": "En las subastas en tiempo real, los vendedores publican productos o servicios con un precio inicial, y los compradores pueden realizar ofertas durante un tiempo determinado. Al finalizar la subasta, el mejor postor gana y puede concretar la compra."
+  },
+  {
+    "question": "¿Qué hago si el asistente virtual no entiende mi pregunta?",
+    "answer": "Intenta reformular tu pregunta de manera más sencilla o específica. Si el problema persiste, puedes consultar el 'Centro de Ayuda' o contactar directamente al soporte técnico para obtener asistencia."
+  },
+  {
+    "question": "¿Cómo puedo actualizar mi información personal o de mi empresa?",
+    "answer": "Accede a tu perfil y selecciona 'Editar Perfil'. Allí puedes actualizar tu información personal, datos de contacto, descripción de tu empresa y cualquier otra información relevante."
+  },
+  {
+    "question": "¿La plataforma tiene costos o comisiones por su uso?",
+    "answer": "La inscripción y el uso básico de la plataforma son gratuitos. Sin embargo, ciertas transacciones o servicios premium pueden tener comisiones asociadas. Puedes consultar los detalles en la sección 'Términos y Condiciones'."
+  },
+  {
+    "question": "¿Puedo usar la plataforma si soy un pequeño productor sin certificaciones?",
+    "answer": "Sí, la plataforma está abierta a productores de todos los tamaños y niveles de certificación. Te animamos a ser transparente sobre tus prácticas y a proporcionar la mayor información posible para generar confianza con los compradores."
+  }
+]

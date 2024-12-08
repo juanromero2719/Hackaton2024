@@ -1,0 +1,35 @@
+{
+  "name": "hackaton-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "generate-docs": "node swagger.js",
+    "start": "npm run generate-docs && node index.js",
+    "dev": "npm run start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "csurf": "^1.10.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "geokdbush": "^2.0.1",
+    "geolib": "^3.3.4",
+    "jsonwebtoken": "^9.0.2",
+    "kd-tree-javascript": "^1.0.3",
+    "kdbush": "^4.0.2",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7",
+    "openai": "^4.76.0",
+    "string-similarity": "^4.0.4",
+    "swagger-autogen": "^2.23.7",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
