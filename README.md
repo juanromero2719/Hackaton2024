@@ -93,3 +93,10 @@ MetAgro está desarrollado utilizando el stack **MERN**:
 ## Licencia
 
 Este proyecto está licenciado bajo los términos de la licencia [MIT](LICENSE).
+
+## Desarrollado por:
+
+- Cristian Infante
+- Sebastián Romero
+- Cristian Rojas
+
